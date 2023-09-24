@@ -1,3 +1,9 @@
 {
-  "extends": ["regexManagers:dockerfileVersions", "regexManagers:githubActionsVersions", "regexManagers:helmChartYamlAppVersions", "regexManagers:mavenPropertyVersions", "regexManagers:tfvarsVersions"]
+  "extends": [ 
+"regexManagers:dockerfileVersions", 
+"regexManagers:githubActionsVersions", 
+"regexManagers:helmChartYamlAppVersions", 
+"regexManagers:mavenPropertyVersions", 
+"regexManagers:tfvarsVersions"
+]
 }
